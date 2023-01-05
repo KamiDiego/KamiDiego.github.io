@@ -1,5 +1,0 @@
-Student name: Diego Baez
-Student number: 706858
-Student class: IT1C
-URL student GitHub website:https://KamiDiego.github.io
-URL student GitHub repository: https://github.com/KamiDiego/repositoryname
